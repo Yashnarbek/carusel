@@ -1,0 +1,17 @@
+.round {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.card-heading {
+    font-weight: 400;
+}
+.card-title {
+    text-align: center;
+}
+.item {
+    border-top: 1px solid grey;
+}
+.item:last-child {
+    border-bottom: 1px solid grey;
+}
